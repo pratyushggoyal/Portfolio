@@ -28,12 +28,12 @@ const Experience = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <div className='pt-8 text-center'>
-                <a href="file:///C:/Users/This%20PC/Desktop/College/Fitness%20Freak%20FF/index.html">
+                <a href="https://pratyushggoyal.github.io/fitnessfreak/">
                   <button className='opacity-6 text-center rounded-lg px-4 py-3 m-2 bg-[#0C090A] text-[#BCC6CC] font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/AryaShrivastava05/Sticky-notes.git">
+                <a href="https://github.com/pratyushggoyal/fitnessfreak.git">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#0C090A] text-[#BCC6CC] font-bold text-lg'>
                     Code
                   </button>
@@ -72,7 +72,7 @@ const Experience = () => {
             <div className='opacity-0 group-hover:opacity-100'>
              
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href="https://pratyushggoyal.github.io/Music-Player/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#0C090A] text-[#BCC6CC] font-bold text-lg'>
                     Demo
                   </button>
